@@ -31,9 +31,9 @@ Simulador de prova para treinar o ITIL 4 Foundation direto no navegador, sem ins
 
 ## 📸 Demonstração
 
-> Adicione aqui um print da tela do simulador.
->
-> `![Tela do simulador](docs/print.png)`
+![Screenshot](screenshot1.jpg)
+
+![Screenshot](screenshot2.jpg)
 
 ## 🗂️ Estrutura do projeto
 
