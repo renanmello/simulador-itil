@@ -9,7 +9,7 @@ Simulador de prova para treinar o ITIL 4 Foundation direto no navegador, sem ins
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)
 
-**[🚀 Acessar o simulador](https://SEU-PROJETO.vercel.app)**
+**[🚀 Acessar o simulador](https://simulador-itil.vercel.app/)**
 
 </div>
 
